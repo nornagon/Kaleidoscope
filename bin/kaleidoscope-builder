@@ -46,7 +46,7 @@ prepare_to_flash () {
         compile
     fi
 
-    echo "Press ENTER when ready..."
+    echo "Hold PROG and press ENTER when ready..."
     read a
 }
 
